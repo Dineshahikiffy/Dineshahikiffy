@@ -5,7 +5,6 @@ Email Me 👉 ✉️ **dinesha3311@gmail.com** For Project or Anything Else. �
 
 
 - 🌱 **I’m currently learning:** Generative Ai
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:**  Tech Support
 - 📫 **How to reach me:** dinesha3311@gmail.com
 - 😄 **Pronouns:** Dinesh
