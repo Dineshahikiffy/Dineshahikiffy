@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Dinesh Nagarak
+# 💫 Hi 👋, I'm Dinesh Nagaraj
 **A passionate Software Engineer 
 
 Email Me 👉 ✉️ **dinesha3311@gmail.com** For Project or Anything Else. 😊😊
