@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Dinesh Nagarak
-**A passionate Software Engineer || D 
+**A passionate Software Engineer 
 
 Email Me 👉 ✉️ **dinesha3311@gmail.com** For Project or Anything Else. 😊😊
 
@@ -13,7 +13,6 @@ Email Me 👉 ✉️ **dinesha3311@gmail.com** For Project or Anything Else. �
 
 
 
-S
 
 <!-- Snake Game Repo View -->
 
@@ -21,8 +20,7 @@ S
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
