@@ -1,4 +1,30 @@
-💫 Hi 👋, I'm Dinesh Nagaraj
+# 💫 Hi 👋, I'm Dinesh Nagarak
+**A passionate Software Engineer || D 
+
+Email Me 👉 ✉️ **dinesha3311@gmail.com** For Project or Anything Else. 😊😊
+
+
+- 🌱 **I’m currently learning:** Generative Ai
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:**  Tech Support
+- 📫 **How to reach me:** dinesha3311@gmail.com
+- 😄 **Pronouns:** Dinesh
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
+
+S
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 
  
