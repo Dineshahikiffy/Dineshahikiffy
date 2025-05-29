@@ -1,9 +1,15 @@
   💫 Hi 👋, I'm Dinesh Nagaraj
-🌱 I’m currently learning: Generative Ai
+  
+🌱 I’m currently learning: Generative Ai 
+
 🤔 I’m looking for help with: Your project here
+
 💬 Ask me about:  Tech Support
+
 📫 How to reach me: Enter your email here
+
 😄 Pronouns: Dinesh
+
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
