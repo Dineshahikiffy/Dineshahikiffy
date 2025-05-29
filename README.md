@@ -1,6 +1,4 @@
   💫 Hi 👋, I'm Dinesh Nagaraj
-
-
 🌱 I’m currently learning: Generative Ai
 🤔 I’m looking for help with: Your project here
 💬 Ask me about:  Tech Support
